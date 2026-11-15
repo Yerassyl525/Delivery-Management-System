@@ -1,8 +1,0 @@
-[
-  { "id": "A", "distanceText": "2", "category": "Standard" },
-  { "id": "B", "distanceText": "5", "category": "Express" },
-  { "id": "C", "distanceText": "0", "category": "Standard" },
-  { "id": "D", "distanceText": "-1", "category": "Standard" },
-  { "id": "E", "distanceText": "10", "category": "Unknown" },
-  { "id": "", "distanceText": "3", "category": "Express" }
-]
